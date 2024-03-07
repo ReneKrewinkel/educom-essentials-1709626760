@@ -1,0 +1,39 @@
+<mxfile host="65bd71144e">
+    <diagram id="3_CJip-mSTPlXGOo_JML" name="Page-1">
+        <mxGraphModel dx="990" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="380.39" width="320" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Roer koffie" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="500.39" width="160.08" height="79.61" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="290.0799999999999" y="280" width="119.85" height="320.78" as="geometry"/>
+                </mxCell>
+                <UserObject label="Is er melk in je koffie?" placeholders="1" name="Variable" id="5">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+                        <mxGeometry x="280.0799999999999" y="390" width="140" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="6" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="200.07999999999998" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440.08000000000004" y="460" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Giet melk in je koffie" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="350.08000000000004" y="500" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Roer koffie" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="350.08000000000004" y="541" width="160" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Drink koffie" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="190.07999999999998" y="580" width="320" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
